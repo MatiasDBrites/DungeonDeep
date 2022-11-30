@@ -11,7 +11,9 @@ o creando una cuenta con correo y contraseña, visualizar la interface del juego
 
 - [Matias Brites](https://www.github.com/MatiasDBrites)
 - [Sebastian Barrionuevo](https://www.github.com/sebastianbarrionuebo)
-
+- [Jhen Nuñez](https://www.github.com/JxElektro)
+- [Peter Neville](https://www.github.com/pneville83)
+- [Damian Barrionuevo]()
 
 ## Tecnología Utilizada
 
