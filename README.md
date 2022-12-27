@@ -9,6 +9,7 @@ Este proyecto nos permite mediante login directo con cuenta Google
 o creando una cuenta con correo y contraseña, visualizar la interface del juego
 ## Autores
 
+- [Broodkiller](https://github.com/estebancano-dev)
 - [Matias Brites](https://www.github.com/MatiasDBrites)
 - [Sebastian Barrionuevo](https://www.github.com/sebastianbarrionuebo)
 - [Jhen Nuñez](https://www.github.com/JxElektro)
